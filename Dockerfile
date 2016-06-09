@@ -1,3 +1,3 @@
 FROM alpine:3.3
 
-CMD ["echo", "this", "is", "v1.1"]
+CMD ["echo", "this", "is", "v1.2"]
